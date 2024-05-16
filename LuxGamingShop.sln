@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuxGamingShop", "LuxGamingShop\LuxGamingShop.csproj", "{AF7D0BFC-2AD2-4FC7-A84A-64AB95643674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7D0BFC-2AD2-4FC7-A84A-64AB95643674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7D0BFC-2AD2-4FC7-A84A-64AB95643674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7D0BFC-2AD2-4FC7-A84A-64AB95643674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7D0BFC-2AD2-4FC7-A84A-64AB95643674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D0CCF6-1E5D-430C-9043-BFA766BB29CD}
+	EndGlobalSection
+EndGlobal
